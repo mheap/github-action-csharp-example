@@ -1,0 +1,5 @@
+name: C# Example Debug
+description: Show available data for any Action run
+runs:
+  using: docker
+  image: Dockerfile
